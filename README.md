@@ -16,6 +16,8 @@ Atuo com **SDR (Sales Development Representative)**, **marketing digital**, alé
 - Interface responsiva e linguagem alternável entre **Português** e **Inglês**
 - Animações suaves para uma experiência mais agradável
 
+Para visualizar o projeto, basta fazer o dowload em PORTFOLIO-DaviPedrosa.zip e extrair os arquivos.
+
 ## 📁 Estrutura de pastas
 
 ```bash
